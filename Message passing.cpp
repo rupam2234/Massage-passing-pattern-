@@ -18,7 +18,7 @@ class Receiver:public INotify
 	
 public:
 	void notify(string msg)
-    {
+        {
 		   message=msg;
 	}   
 	
